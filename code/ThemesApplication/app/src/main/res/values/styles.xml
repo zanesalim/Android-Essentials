@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="AppTheme.One" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="button_enabled"@drawable/button_enabled</item>
+    </style>
+
+    <style name="AppTheme.Two" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="button_pressed"@drawable/button_pressed</item>
+    </style>
+
+</resources>
